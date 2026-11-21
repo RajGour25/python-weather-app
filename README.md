@@ -13,7 +13,8 @@ A command-line Python application built as **Task 03** for my Python Programming
 - **Language:** Python 3
 - **Library:** `requests`
 
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/RajGour25/python-weather-app.git](https://github.com/RajGour25/python-weather-app.git)
+The project directory: cd python-weather-app
+
+Install the required dependency: pip install requests
+
+Run the application: python weather_app.py
